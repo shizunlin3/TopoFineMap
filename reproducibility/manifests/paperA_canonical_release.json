@@ -1,0 +1,20 @@
+{
+  "release": "TopoFineMap v1.0.0 Paper A public release",
+  "date": "2026-10-27",
+  "paper": "Degree-induced fields in graph-informed Bayesian fine-mapping",
+  "holdout": {
+    "configurations": 28,
+    "loci": 18,
+    "corrected_within_0.005": 27,
+    "uncorrected_expansion": 28,
+    "median_fold": 36.316,
+    "range": [
+      4.678,
+      437.902
+    ]
+  },
+  "tnfaip3_is_holdout": false,
+  "control_terminology": "edge-randomized / degree-redistributed control",
+  "edge_randomization_preserves": "total undirected edge count",
+  "edge_randomization_does_not_preserve": "node-degree sequence"
+}

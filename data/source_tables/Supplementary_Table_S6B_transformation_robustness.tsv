@@ -1,0 +1,3 @@
+analysis_lineage	holdout_scope	corrected_within_0.005	uncorrected_expansion	median_fold	min_fold	max_fold	largest_corrected_residual
+coordinate-only repaired primary	28 configurations / 18 loci	27/28	28/28	36.316	4.678	437.902	MST1/3p21; |delta|=0.0160
+later-audited O/E robustness	28 configurations / 18 loci	27/28	28/28	34.148	4.678	426.248	MST1/3p21; |delta|=0.0160

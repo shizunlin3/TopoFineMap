@@ -1,0 +1,6 @@
+locus	ld_tied_pairs	ld_tied_same_5kb_bin	median_pairwise_contact_diff_sd_ld_tied	median_pairwise_contact_diff_sd_ld_distant	median_sd_ratio_tied_distant	same_bin_fraction
+IL23R	9839	1737	0.263	0.3721	0.7067	0.1765
+TYK2	2866	976	0.169	0.4603	0.3671	0.3405
+PTPN22	4111	221	0.2641	0.3379	0.7818	0.0538
+NOD2	1016	226	0.1703	0.3186	0.5346	0.2224
+CARD9	6432	1266	0.2521	0.2866	0.8798	0.1968

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use TopoFineMap, please cite the associated manuscript."
+title: "TopoFineMap"
+type: software
+version: "1.0.0"
+date-released: "2026-10-27"
+license: MIT
+authors:
+  - family-names: Shi
+    given-names: Zunlin
+  - family-names: Li
+    given-names: Zhi
+  - family-names: He
+    given-names: Lizhou
+  - family-names: Yang
+    given-names: Fan
+preferred-citation:
+  type: article
+  title: "Degree-induced fields in graph-informed Bayesian fine-mapping"
+  authors:
+    - family-names: Shi
+      given-names: Zunlin
+    - family-names: Li
+      given-names: Zhi
+    - family-names: He
+      given-names: Lizhou
+    - family-names: Yang
+      given-names: Fan

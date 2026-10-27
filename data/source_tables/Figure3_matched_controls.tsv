@@ -1,0 +1,52 @@
+control_family	configuration	alpha	proxy_pip	kpost	max_pip
+graph structure	native	0.0	0.7305	2.944	0.7305
+graph structure	native	0.02	0.7905	2.98	0.7905
+graph structure	native	0.05	0.7835	3.181	0.7835
+graph structure	native	0.1	0.753	6.995	0.753
+graph structure	native	0.15	0.573	14.755	0.9935
+graph structure	native	0.2	0.3465	17.934	1.0
+graph structure	native	0.3	0.022	20.453	1.0
+graph structure	native	0.5	0.0	21.585	1.0
+graph structure	native	1.0	0.25	30.209	0.998
+graph structure	native	2.0	0.375	39.165	1.0
+graph structure	edge-randomized	0.0	0.7305	2.944	0.7305
+graph structure	edge-randomized	0.02	0.6975	3.064	0.6975
+graph structure	edge-randomized	0.05	0.6975	3.24	0.6975
+graph structure	edge-randomized	0.1	0.772	3.592	0.772
+graph structure	edge-randomized	0.15	0.6155	4.179	0.6155
+graph structure	edge-randomized	0.2	0.6365	4.819	0.6945
+graph structure	edge-randomized	0.3	0.512	6.94	0.8445
+graph structure	edge-randomized	0.5	0.36	17.16	0.9775
+graph structure	edge-randomized	1.0	0.238	64.435	1.0
+graph structure	edge-randomized	2.0	0.0225	110.617	1.0
+graph structure	k-regular	0.0	0.7305	2.944	0.7305
+graph structure	k-regular	0.02	0.736	3.055	0.736
+graph structure	k-regular	0.05	0.835	3.198	0.835
+graph structure	k-regular	0.1	0.686	3.594	0.686
+graph structure	k-regular	0.15	0.7145	3.992	0.7145
+graph structure	k-regular	0.2	0.7295	4.539	0.7295
+graph structure	k-regular	0.3	0.6805	6.184	0.6805
+graph structure	k-regular	0.5	0.742	13.355	0.742
+graph structure	k-regular	1.0	0.5825	80.936	0.964
+graph structure	k-regular	2.0	0.598	148.896	0.982
+parameterization	uncentered Ising	0.0	0.7305	2.944	0.7305
+parameterization	uncentered Ising	0.05	0.7835	3.181	0.7835
+parameterization	uncentered Ising	0.1	0.753	6.995	0.753
+parameterization	uncentered Ising	0.15	0.573	14.755	0.9935
+parameterization	uncentered Ising	0.2	0.3465	17.934	1.0
+parameterization	uncentered Ising	0.3	0.022	20.453	1.0
+parameterization	uncentered Ising	0.5	0.0	21.585	1.0
+parameterization	degree-corrected Ising	0.0	0.7305	2.944	0.7305
+parameterization	degree-corrected Ising	0.05	0.7305	2.944	0.7305
+parameterization	degree-corrected Ising	0.1	0.7305	2.943	0.7305
+parameterization	degree-corrected Ising	0.15	0.7305	2.943	0.7305
+parameterization	degree-corrected Ising	0.2	0.7305	2.942	0.7305
+parameterization	degree-corrected Ising	0.3	0.7305	2.942	0.7305
+parameterization	degree-corrected Ising	0.5	0.7305	2.942	0.7305
+parameterization	Bernoulli-state	0.0	0.7305	2.944	0.7305
+parameterization	Bernoulli-state	0.05	0.7305	2.944	0.7305
+parameterization	Bernoulli-state	0.1	0.7305	2.944	0.7305
+parameterization	Bernoulli-state	0.15	0.7305	2.944	0.7305
+parameterization	Bernoulli-state	0.2	0.7305	2.944	0.7305
+parameterization	Bernoulli-state	0.3	0.7305	2.943	0.7305
+parameterization	Bernoulli-state	0.5	0.7305	2.943	0.7305

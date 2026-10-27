@@ -1,0 +1,25 @@
+{
+  "analysis": "TNFAIP3 coordinate-only repaired resolution-boundary case",
+  "holdout_membership": false,
+  "repaired_pruned_graph_edges": 69629,
+  "rs6927172": {
+    "baseline": 0.0295,
+    "uncorrected_alpha_0.1": 1.0,
+    "degree_corrected_alpha_0.1": 0.023
+  },
+  "rs11154952": {
+    "baseline": 0.738,
+    "uncorrected_alpha_0.1": 0.0,
+    "degree_corrected_alpha_0.1": 0.668
+  },
+  "kpost": {
+    "baseline": 2.999,
+    "uncorrected_alpha_0.1": 215.8385,
+    "degree_corrected_alpha_0.1": 2.9235
+  },
+  "contact_context": {
+    "rs6927172_to_IL20RA_TSS_OE": 2.354,
+    "rs6927172_to_TNFAIP3_TSS_OE": 1.984,
+    "graph_edge_threshold_OE": 2.0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "scope": "TNFAIP3 coordinate-only repair public provenance summary",
+  "historical_mask_sha256": "d257bcf17bbc77eccaaf89d8c9cfc105248280ec3eaf7c8411ec8af5df9063a7",
+  "repaired_mask_candidate_sha256": "3523407d30dbd46659b70b32e673f225ddf71748bb629283dac7aca35c9bdec8",
+  "repair_scope": "POS1-to-POS0 exact-5kb-boundary variant-to-bin mapping only",
+  "historical_oe_preserved": true,
+  "resolution_bp": 5000,
+  "historical_pruned_edges": 69612,
+  "repaired_pruned_edges": 69629,
+  "symmetric_difference_edges": 573,
+  "changed_adjacency_nodes": 418,
+  "rs6927172_degree": {
+    "historical": 145,
+    "repaired": 146
+  },
+  "rs11154952_degree": {
+    "historical": 210,
+    "repaired": 210
+  }
+}

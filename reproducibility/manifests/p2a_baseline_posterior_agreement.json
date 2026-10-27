@@ -1,0 +1,27 @@
+{
+  "stage": "P8.4-R1D TNFAIP3 P2A baseline posterior agreement adjudication",
+  "status": "PASS_BASELINE_POSTERIOR_AGREEMENT",
+  "sampler_lineage_test": {
+    "current_sha256": "672762b1f3782e894d3b4ffc1f13cdab60c19be2a62a4e6cced94a91e18897ca",
+    "preR7_sha256": "84c3cd4be32de0eb96b5abea9afd36a3462032ebe3c424569d0398991a40f1fe",
+    "20260608_sha256": "3bde5edc10215a253918c71f6fd120575c496494cab55a26e8077db86398ed1d",
+    "all_three_replays_identical": true
+  },
+  "historical_baseline": {
+    "rs6927172_PIP": 0.0275,
+    "rs11154952_PIP": 0.675,
+    "kpost": 2.945
+  },
+  "replayed_baseline": {
+    "rs6927172_PIP": 0.0295,
+    "rs11154952_PIP": 0.738,
+    "kpost": 2.999
+  },
+  "posterior_agreement": {
+    "pip_vector_correlation": 0.9971213997699737,
+    "mean_absolute_PIP_difference": 0.00044896446392160544,
+    "max_absolute_PIP_difference": 0.06299998807907103
+  },
+  "historical_cache_role": "provenance comparator only",
+  "posterior_rerun_required": false
+}
